@@ -9,7 +9,10 @@
 # All rights reserved.
 #
 # Program for evaluating different parameter configurations of a
-# SVM classification task with the mlr library in parallel. 
+# SVM classification task with the mlr library in parallel.
+# Input data can be downloaded from e.g.:
+# http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/w1a
+#
 # ------------------------------------------------------------------
 set.seed(1)
 
