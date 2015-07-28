@@ -7,7 +7,7 @@
 # Version 2. You may review the terms of this license at
 # http://www.gnu.org/licenses/gpl-2.0.html 
 #
-# Copyright (c) 2012-2013, Michel Lang, Helena Kotthaus, 
+# Copyright (c) 2012-2016, Michel Lang, Helena Kotthaus, 
 # TU Dortmund University
 #
 # All rights reserved.
