@@ -44,7 +44,7 @@ data = libsvm.read(data_file)
 task = makeClassifTask(data = data, target = "Y")
 
 library(parallelMap)
-parallelStartMulticore(cpu_cores, mc.preschedule=TRUE)
+parallelStartMulticore(cpu_cores)
 
 lrn = makeLearner("classif.LiblineaRMultiClass")
 par.set = makeParamSet(
